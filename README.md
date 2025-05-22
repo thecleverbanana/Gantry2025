@@ -4,7 +4,7 @@ The system is divied into two parts: gantry and motor.
 Checklist:
 1. Check the figures before running
 2. Be careful for the wire connection, make sure use the power bank rather battery while testing
-3. Install librealsense for depth camera[installation guide](https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md)
+3. Install librealsense for depth camera [installation guide](https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md)
 
 ## Overview
 ### 1. Overview
@@ -18,10 +18,14 @@ Checklist:
 
 ### 1. Gantry Cable Connection
 <img src="figures/Gantry_Cable_Connection.JPG" alt="Gantry Cable Connection" width="50%">
+The wires should be marked already. To double check, please make sure the marked sides are aligned for both X and Y Axis
 
 ### 2. XY Axis Controller
 <img src="figures/XYAxis_Controller.JPG" alt="XY Axis Controller" width="50%">
+The rotatory knob is for speed control
+Purple Box indicates its for on/off of the motor 
+Yellow Box indicates its for direction of the motor
 
 ## Motor
 **Power:** 8v, 1A
-For now, the motor control is provided by an external robot because a missing component. Will implement ASAP when package arrived
+For now, the motor control is provided by an external robot because a missing component. Will implement ASAP when package arrived. The code will also update soon.
