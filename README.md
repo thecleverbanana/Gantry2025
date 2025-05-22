@@ -8,7 +8,7 @@ Checklist:
 
 ## Overview
 ### 1. Overview
-<img src="figures/Overview.JPG" alt="Overview" width="50%"">
+<img src="figures/Overview.JPG" alt="Overview" width="50%">
 
 ### 2. Power Holes
 <img src="figures/Power_Holes.JPG" alt="Power Holes" width="50%">
