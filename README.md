@@ -1,6 +1,8 @@
 # Gantry System (v0.1) Instruction
 The system is divied into two parts: gantry and motor. 
 
+<img src="figures/Gantry_System_Circuit.png" alt="Overview" width="50%">
+
 Checklist:
 1. Check the figures before running
 2. Be careful for the wire connection, make sure use the power bank rather battery while testing
